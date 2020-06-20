@@ -120,5 +120,5 @@ echo -e "Finished installing findomain \n"
 echo -e "Installing Fast web fuzzer (ffuf) "
 go get -u github.com/ffuf/ffuf
 sudo cp $HOME/go/bin/ffuf /usr/local/bin
-echo -e "Finished installing Fast web fuzzer (ffuf)\n"
+echo -e "Finished installing Fast web fuzzer\n"
 echo "you are Ready-to-Recon"
